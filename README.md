@@ -29,7 +29,7 @@ Day 5: Mini Project 🎳
 
 
 Repository Structure 🕋
-- Navigate the Basic folder to find notes and examples.
+- Navigate the Notes folder to find notes and examples.
 - Navigate the Practice folder to find the practice questions.
 - Navigate the Projects folder to find mini-projects.
 
