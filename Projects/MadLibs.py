@@ -44,3 +44,6 @@ print(madlib_4)
 print(madlib_5)
 
 print("\nThanks For Playing! 🤗")
+
+# My Practice Project where one gives names, places, nouns, adjectives and verbs as input to the program to get a funny Madlib story
+# It uses Python concepts such as - print, input, and strings
