@@ -2,6 +2,7 @@
 
 Welcome to my 100 Days of Code challenge repository! 
 This repository contains all the code and notes from my Python learning journey. 
+
 Each day focuses on a fundamental aspect of Python programming, with practice exercises and mini-projects to reinforce the concepts.
 
 
@@ -55,16 +56,19 @@ Day 12: OOPS 💡
 - Concepts: Classes, Objects and inheritance
 - Practice: Small programs to understand the concepts
 
-Day 13: Practice 
+Day 13: Practice 🔑
 - Coffee Shop Manager
 - Health Tracker
 
-Day 14: Practice 
+Day 14: Practice 🔑
 - Home Manager
-- 
+- Bill Manager
 
 Day 15: Mini Project 🎳
-  
+- Project: Tic Tac Toe Interactive Game
+- Concepts Used: Input/output, data types, strings, classes, functions, objects, and inheritance
+
+
 Repository Structure 🕋
 - Navigate the Notes folder to find notes and example codes.
 - Navigate the Practice folder to find the practice questions.
