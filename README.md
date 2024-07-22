@@ -20,16 +20,40 @@ Day 3: Conditionals ☝🏻
 - Practice: Basic grade calculator
 
 Day 4: Loops 🔁
-- Concepts: For loops, while loops
+- Concepts: For loops and while loops
 - Practice: Multiplication tables
 
 Day 5: Mini Project 🎳
-- Project: "Guess the Number" interactive game
+- Project: "Guess the Number" Interactive Game
 - Concepts Used: Input/output, data types, conditionals, loops
 
+Day 6: Functions ⚙️
+- Concepts: Creation, calling, and built-in functions
+- Practice: Unit Converter
 
+Day 7: Strings 🪢
+- Concepts: Creation and methods
+- Practice: Palindrome Checker
+
+Day 8: Lists 📋
+- Concepts: Creation and methods
+- Practice: Shopping List Manager
+
+Day 9: Tuples 🎢
+- Concepts: Creation and methods
+- Practice: Contact Book
+
+Day 10: Dictionaries 📚
+- Concepts: Creation and methods
+- Practice: Grade Book
+
+Day 11: Mini Project 🎳
+- Project: "MadLibs" Interactive Story
+- Concepts Used: Input/output, data types, and strings
+
+  
 Repository Structure 🕋
-- Navigate the Notes folder to find notes and examples.
+- Navigate the Notes folder to find notes and example codes.
 - Navigate the Practice folder to find the practice questions.
 - Navigate the Projects folder to find mini-projects.
 
