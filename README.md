@@ -51,6 +51,19 @@ Day 11: Mini Project 🎳
 - Project: "MadLibs" Interactive Story
 - Concepts Used: Input/output, data types, and strings
 
+Day 12: OOPS 💡
+- Concepts: Classes, Objects and inheritance
+- Practice: Small programs to understand the concepts
+
+Day 13: Practice 
+- Coffee Shop Manager
+- Health Tracker
+
+Day 14: Practice 
+- Home Manager
+- 
+
+Day 15: Mini Project 🎳
   
 Repository Structure 🕋
 - Navigate the Notes folder to find notes and example codes.
